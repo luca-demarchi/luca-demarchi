@@ -6,7 +6,7 @@
 
 ## 👨🏼‍💻 About Me
 
-- 🔭 I’m currently working on several projects ⌨️
+- ☎️ I'm currently working on the backend of a telephone interception system in the field of cybersecurity 🛡️
 - 🌱 I never stop learning, every day I learn new technologies 💪🏼
 
 <br />
@@ -14,9 +14,7 @@
 ## Social links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/de-marchi-luca)
-[![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luca-demarchi)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14389298/luca-de-marchi)
-[![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/luca__de_marchi)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/luca__de_marchi)
 
 <br />
 
